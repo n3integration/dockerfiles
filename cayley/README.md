@@ -3,7 +3,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/n3integration/cayley.svg)](https://hub.docker.com/r/n3integration/cayley/)
 [![Docker Stars](https://img.shields.io/docker/stars/n3integration/cayley.svg)](https://hub.docker.com/r/n3integration/cayley/)
 
-Cayley instance backed by boltdb.
+Cayley instance backed by boltdb, running on Alpine
 
 ## Usage
 
