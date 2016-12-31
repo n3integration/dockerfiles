@@ -1,7 +1,7 @@
 FROM debian:sid
 MAINTAINER n3integration <n3integration@gmail.com>
 
-ARG revision=0.2.13
+ARG revision=0.2.12
 
 EXPOSE 5555
 EXPOSE 5556
